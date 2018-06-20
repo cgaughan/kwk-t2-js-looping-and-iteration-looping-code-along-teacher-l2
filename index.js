@@ -13,7 +13,7 @@ function tailsNeverFails() {
     count++
     i = Math.random()
   }
-  return `You got ${count} tails in a row.`
+  return `You got ${count} tails in a row!`
 
 }
 
