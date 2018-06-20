@@ -14,5 +14,7 @@ function tailsNeverFails() {
     i = Math.random()
   }
   return `You got ${count} tails in a row.`
-  
+
 }
+
+console.log(tailsNeverFails())
